@@ -54,7 +54,7 @@ also added comments.
 
 > A bot for disseminating information to the public about a [disruptive road project](http://web.archive.org/web/20190527180954/http://guyanachronicle.com/2019/04/05/sheriff-street-mandela-avenue-road-project-to-be-accelerated).
 
-[CoActing.org](http://coacting.org)
+[**CoActing.org**](http://coacting.org)
 
 > A platform to share thoughts, and promote civic awareness of social issues.
 
