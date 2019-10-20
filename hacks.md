@@ -13,11 +13,7 @@ Back to [home](/).
 
 <hr/>
 
-## Things I'm Working On
-
-1.  [coacting.org](http://coacting.org/) ( a platform to share thoughts )
-2.  [renpan](http://github.com/pancubs/renpan) ( a panbot that looks up various news sites and filters the good ones (imho) )
-3.  [everything else](http://github.com/sonnyksimon) ( source control )
+I try to keep most things checked into Git, and available as GitHub repositories. [@sonnyksimon](http://github.com/sonnyksimon?tab=repositories)
 
 ## Websites
 
@@ -33,7 +29,18 @@ Back to [home](/).
 
 > shows I watch
 
-## Other Peoples' Software I've Hacked On
+## Utility Tools
+
+[**dbq.py**](http://github.com/sonnyksimon/dbq.py)
+
+> This little Python script runs SQL SELECT statements on databases from the command-line. Now available as an [API](http://dbq.sonnyksimon.com)!
+
+[**likepandas.py**](http://github.com/sonnyksimon/likepandas.py)
+
+> likepandas.py is a tool that scrapes Instagram's #panda page, and likes the latest images they've got. Update: I've 
+also added comments.
+
+## Other peoples' software
 
 [**FarmersMarket.Gy**](http://farmersmarket.gy)
 
@@ -46,6 +53,10 @@ Back to [home](/).
 [**IRISReport.com**](http://irisreport.com)
 
 > A bot for disseminating information to the public about a [disruptive road project](http://web.archive.org/web/20190527180954/http://guyanachronicle.com/2019/04/05/sheriff-street-mandela-avenue-road-project-to-be-accelerated).
+
+[CoActing.org](http://coacting.org)
+
+> A platform to share thoughts, and promote civic awareness of social issues.
 
 <hr/>
 
