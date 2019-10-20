@@ -37,7 +37,7 @@ I try to keep most things checked into Git, and available as GitHub repositories
 
 [**likepandas.py**](http://github.com/sonnyksimon/likepandas.py)
 
-> likepandas.py is a tool that scrapes Instagram's #pandas page, and likes the latest images they've got. Update: I've 
+> likepandas.py is a tool that scrapes Instagram's #pandas page, and likes the latest images they've got. *Update*: I've 
 also added comments.
 
 ## Other peoples' software
