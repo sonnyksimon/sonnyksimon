@@ -25,6 +25,10 @@ I try to keep most things checked into Git, and available as GitHub repositories
 
 > Personal website
 
+[**bk.sonnyksimon.com**](http://bk.sonnyksimon.com)
+
+A repository of wuxia novels.
+
 [**am.otaku.rip**](http://am.otaku.rip)
 
 > shows I watch
