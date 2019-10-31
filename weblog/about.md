@@ -6,4 +6,4 @@ I want to use this as my thinking space, a place to stick any ideas or cool thin
 
 The idea's not mine: both the site's structure and the idea are from [this post](http://www.aaronsw.com/weblog/about).
 
-*Treat the site as you would a book of sorts, that's why there's no comments.*
+*Treat the site as you would a book, that's why there's no comments.*
