@@ -8,7 +8,7 @@ layout: blank
 
 <table style="width:100%"><tbody><tr>
 <td style="width:30em; padding-left:4em;">
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:12 %}
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     {{ post.content }}
     <p style="text-align:right;color:#666;font-style:italic;"><a href="{{ post.url }}">{{ post.date | date: "%B  %-d, %Y" }}</a></p>
