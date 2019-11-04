@@ -3,31 +3,7 @@
 <head>
 <title>{{ page.title }}</title>
 <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width">
-<link rel="stylesheet" href="/wikistyle.css">
 <body>
-
 {{ content }}
-
-<script type="text/javascript">
-function ready(fn) {
-    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
-        fn();
-    } else {
-        document.addEventListener('DOMContentLoaded', fn);
-    }
-}
-
-function show_urls_on_hover() {
-    var links = document.getElementsByTagName("A");
-    for(i=0;i<links.length;i++)
-        /* show link url on hover (only if there isn't already some hover text ofc) */
-        links[i].title = (!links[i].title) ? links[i].href : links[i].title;
-}
-
-ready(function(){
-    show_urls_on_hover();
-});
-
-</script>
 </body>
 </html>

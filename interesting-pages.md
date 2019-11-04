@@ -1,17 +1,6 @@
 ---
 layout: blank
-title: interesting-pages (sonny kothapally)
-charset: utf-8
-description: Sonny Kothapally is a hacker. He is currently enrolled in a distance learning programme studying computers.
-url: http://www.sonnyksimon.com/interesting-pages
-locale: en_US
-type: website
-site_name: sonnyksimon
 ---
-
-Back to [home](/).
-
-<hr/>
 
 ## Interesting Pages
 
@@ -24,6 +13,3 @@ Back to [home](/).
 7. [Undergraduation](http://www.paulgraham.com/college.html)
 8. [What every cs major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
-<hr/>
-
-Back to [home](/).

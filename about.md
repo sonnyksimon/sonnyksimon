@@ -1,19 +1,6 @@
 ---
 layout: blank
-title: about me (sonny kothapally)
-charset: utf-8
-description: Sonny Kothapally is a hacker. He is currently enrolled in a distance learning programme studying computers.
-url: http://www.sonnyksimon.com/about
-locale: en_US
-type: website
-site_name: sonnyksimon
 ---
-
-Back to [home](/).
-
-<hr/>
-
-Probably a lot more than you need to know about me.
 
 ## Contact
 
@@ -41,7 +28,7 @@ I prefer email. If something is urgent, you should really send it again to me. I
 
 (2014) Cert. *Sciences*. **Central High, Guyana**.
 
-## Quotes
+## Favorite Quotes
 
 "You don't have to be responsible for the world that you're in" - John von Neumann
 
@@ -61,18 +48,6 @@ I prefer email. If something is urgent, you should really send it again to me. I
 
 **Guyana**: Georgetown; **India**: Bangalore
 
-## Artwork
-
--- Still learning.
-
-## Notes
-
--- check: [MIT](http://ocw.mit.edu)
-
 ## Games I've Played
 
 SuperTux, TuxRacer, PepsiMan, Road Rash, DxBall, Pinball, 4dPrinceOfPersia, SkyRoads, Dangerous Dave, Icy Tower, Age of Empires, Praetorians, Pokemon Yellow, Pokemon Yellow, Pokemon Sapphire, FIFA 12, FIFA 15, FIFA 17, NARUTO: Ultimate Ninja STORM, Naruto Shippuden: Ultimate Ninja Storm 2, Naruto Shippuden: Ultimate Ninja Storm 3, and Naruto Ultimate Ninja Storm 4
-
-<hr/>
-
-Back to [home](/).
