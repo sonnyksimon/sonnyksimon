@@ -22,6 +22,10 @@ layout: blank
 
 ## Utility Tools
 
+[**caltext**](http://github.com/sonnyksimon/caltext)
+
+> Automatically generates a plaintext calendar between two dates.
+
 [**dbq.py**](http://github.com/sonnyksimon/dbq.py)
 
 > This little Python script runs SQL SELECT statements on databases from the command-line. Now available as an [API](http://dbq.sonnyksimon.com).
