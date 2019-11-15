@@ -14,6 +14,7 @@ I'm Sonny Kothapally. I write stuff, in code for the most part and in prose othe
 ### Contact:
 
 Sonny Kothapally
+
 58 Brickdam; Stabroek; Georgetown, GY 
 
 If you want to work with me, you can contact me in various forms:
@@ -23,7 +24,9 @@ If you want to work with me, you can contact me in various forms:
 * [sonnyksimon](http://github.com/sonnyksimon) on github
 * [sonnyksimon](skype:sonnyksimon?contact) on Skype
 
-I prefer email. If something is urgent, you should really send it again to me. I don't use the phone. If you have some reason to call me, please warn me first by email. If all fails, I'm also at these other places on the web:
+I prefer email. If something is urgent, you should really send it again to me. I don't use the phone. If you have some reason to call me, please warn me first by email. 
+
+I'm also at these other places on the web:
 
 * [sonnyksimon](http://flickr.com/sonnyksimon) on flickr
 * [sonnyksimon](http://instagram.com/sonnyksimon) on instagram
