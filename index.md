@@ -5,7 +5,7 @@ title: "Sonny S. Kothapally"
 
 # Sonny S. Kothapally
 
-**Distant**: [twitter](http://twitter.com/sonnyksimon), [facebook](http://facebook.com/sonny.kothapally), [flickr](http://flickr.com/sonnyksimon), [instagram](http://instagram.com/sonnyksimon), [reddit](http://reddit.com/u/sonnyksimon), [skype](skype:sonnyksimon?userinfo), [youtube](http://youtube.com/sonnyksiwhat i usemon), [calendar](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
+**Distant**: [twitter](http://twitter.com/sonnyksimon), [facebook](http://facebook.com/sonny.kothapally), [flickr](http://flickr.com/sonnyksimon), [instagram](http://instagram.com/sonnyksimon), [reddit](http://reddit.com/u/sonnyksimon), [skype](skype:sonnyksimon?userinfo), [youtube](http://youtube.com/sonnyksimon), [calendar](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
 
 **Nearby:** [what i'm reading](/reading), [hacks](/hacks)
 
