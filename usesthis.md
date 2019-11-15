@@ -1,11 +1,6 @@
 ---
 layout: blank
 ---
-
-## Who are you, and what do you do?
-
-I'm [Sonny Kothapally](http://sonnyksimon.com). I write stuff, in code for the most part and in prose otherwise. 
-
 ## What hardware do you use?
 
 I bought a [Lenovo IdeaPad 330](http://en.wikipedia.org/wiki/IdeaPad#IdeaPad_300_Series), the cheapest Lenovo I could find which still had decent build quality. Lenovos seem the best ones to get if you're not going to go for a MacBook. Data is scattered over multiple SD cards and hard drives, with huge overlaps. I like to keep multiple copies just in case something starts failing.
