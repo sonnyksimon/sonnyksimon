@@ -11,7 +11,7 @@ title: "Sonny S. Kothapally"
 
 I'm Sonny Kothapally. I write stuff, in code for the most part and in prose otherwise.
 
-### Contact:
+### Contact
 
 ```
 Sonny Kothapally
