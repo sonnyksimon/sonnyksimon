@@ -13,9 +13,10 @@ I'm Sonny Kothapally. I write stuff, in code for the most part and in prose othe
 
 ### Contact:
 
+```
 Sonny Kothapally
-
 58 Brickdam; Stabroek; Georgetown, GY 
+```
 
 If you want to work with me, you can contact me in various forms:
 
