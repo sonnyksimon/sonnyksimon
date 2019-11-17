@@ -7,7 +7,7 @@ title: "Sonny S. Kothapally"
 
 **Nearby:** [what i'm reading](/reading), [hacks](/hacks), [calendar](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
 
-**Also close by:** [about me](/about), [interesting pages](/interesting-pages), [what i use](/usesthis)
+**Also close by:** [about me](/about), [what i use](/usesthis)
 
 I'm Sonny Kothapally. I write stuff, in code for the most part and in prose otherwise.
 
@@ -34,6 +34,16 @@ I'm also at these other places on the web:
 * [sonnyksimon](http://reddit.com/u/sonnyksimon) on reddit
 * [sonnyksimon](http://youtube.com/sonnyksimon) on youtube
 * [sonny.kothapally](http://facebook.com/sonny.kothapally) on facebook
+
+### Other 
+
+Here are some pages you might find interesting.
+
+[Feynman Lectures](http://www.feynmanlectures.caltech.edu/), [Travel hacks](http://matt.might.net/articles/travel-hacks/)
+[Military Standard, Standard general requirements for electronic equipment](http://everyspec.com/MIL-STD/MIL-STD-0300-0499/MIL-STD-454N_9160/)
+[Teach yourself programming in 10 years.](http://norvig.com/21-days.html)
+[HTML Hell](http://catb.org/~esr/html-hell.html), [Things every hacker once knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
+[Undergraduation](http://www.paulgraham.com/college.html), [What every cs major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 *Original articles on this site are CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
 

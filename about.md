@@ -2,12 +2,6 @@
 layout: blank
 ---
 
-## Contact
-
-Sonny Kothapally <br> <[me@sonnyksimon.com](mailto:me@sonnyksimon.com)> <br> 58 Brickdam <br> Stabroek, Georgetown, GY <br>
-
-I prefer email. If something is urgent, you should really send it again to me. I don't use the phone. If you have some reason to call me, please warn me first by email.
-
 ## Background
 
 **Web:** Apache, Python
