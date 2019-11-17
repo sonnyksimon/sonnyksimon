@@ -23,7 +23,7 @@ If you want to work with me, you can contact me in various forms:
 * [me@sonnyksimon.com](mailto:me@sonnyksimon.com) for mails
 * [@sonnyksimon](http://twitter.com/sonnyksimon) on twitter
 * [sonnyksimon](http://github.com/sonnyksimon) on github
-* [sonnyksimon](skype:sonnyksimon?contact) on Skype
+* [sonnyksimon](skype:sonnyksimon?chat) on Skype
 
 I prefer email. If something is urgent, you should really send it again to me. I don't use the phone. If you have some reason to call me, please warn me first by email. 
 
