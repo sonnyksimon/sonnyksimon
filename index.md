@@ -11,6 +11,18 @@ title: "Sonny S. Kothapally"
 
 I'm Sonny Kothapally. I write stuff, in code for the most part and in prose otherwise.
 
+### Computer science and physics
+
+Introduction to programming, discrete mathematics, information systems, computing
+<br/>
+Database systems, algorithms, networking
+<br/>
+Artificial intelligence, neural networks
+<br/>
+Data compression, computer security
+<br/>
+Natural language processing, graphics and animation, etc.
+
 [Feynman Lectures](http://www.feynmanlectures.caltech.edu/), [Travel hacks](http://matt.might.net/articles/travel-hacks/)
 
 [Military Standard, Standard general requirements for electronic equipment](http://everyspec.com/MIL-STD/MIL-STD-0300-0499/MIL-STD-454N_9160/)
