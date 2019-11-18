@@ -23,14 +23,26 @@ Data compression, computer security
 <br/>
 Natural language processing, graphics and animation, etc.
 
+Single variable calculus, multi-variable calculus, logic
+<br/>
+Differential equations, linear algebra, probability
+<br/>
+Classical mechanics, electromagnetism, vibrations and waves
+<br/>
+Quantum mechanics, statistical physics
+<br/>
+Relativity, experimental work, etc.
+
+### Related resources
+
 [Feynman Lectures](http://www.feynmanlectures.caltech.edu/), [Travel hacks](http://matt.might.net/articles/travel-hacks/)
-
+<br/>
 [Military Standard, Standard general requirements for electronic equipment](http://everyspec.com/MIL-STD/MIL-STD-0300-0499/MIL-STD-454N_9160/)
-
+<br/>
 [Teach yourself programming in 10 years.](http://norvig.com/21-days.html)
-
+<br/>
 [HTML Hell](http://catb.org/~esr/html-hell.html), [Things every hacker once knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
-
+<br/>
 [Undergraduation](http://www.paulgraham.com/college.html), [What every cs major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 ### Contact
