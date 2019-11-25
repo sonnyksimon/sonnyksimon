@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: "Artificial intelligence"
+title: "Neural networks"
 ---
 [Sonny S. Kothapally](/)
 
