@@ -4,7 +4,7 @@ title: "Artificial intelligence"
 ---
 [Sonny S. Kothapally](/)
 
-# Artificial Intelligence
+# Artificial intelligence
 
 ### Readings
 
