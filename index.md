@@ -17,7 +17,7 @@ Introduction to programming, discrete mathematics, information systems, computin
 <br/>
 Database systems, algorithms, networking
 <br/>
-Artificial intelligence, neural networks
+[Artificial intelligence](/ai), neural networks
 <br/>
 Data compression, computer security
 <br/>
