@@ -63,12 +63,12 @@ I prefer email. If something is urgent, you should really send it again to me. I
 
 I'm also at these other places on the web:
 
-* [sonnyksimon](http://flickr.com/sonnyksimon) on flickr
-* [sonnyksimon](http://instagram.com/sonnyksimon) on instagram
-* [sonnyksimon](http://reddit.com/u/sonnyksimon) on reddit
-* [sonnyksimon](http://youtube.com/sonnyksimon) on youtube
-* [sonny.kothapally](http://facebook.com/sonny.kothapally) on facebook
+* [flickr](http://flickr.com/sonnyksimon)
+* [instagram](http://instagram.com/sonnyksimon) 
+* [reddit](http://reddit.com/u/sonnyksimon) 
+* [youtube](http://youtube.com/sonnyksimon)
+* [facebook](http://facebook.com/sonny.kothapally)
 
 *Original articles on this site are CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
 
-*last updated November 2019*
+*last updated December 2019*
