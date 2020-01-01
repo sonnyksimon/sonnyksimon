@@ -1,0 +1,67 @@
+<html>
+<head>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  });
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_HTML-full" defer="" crossorigin="anonymous">
+</script>
+</head>
+<body>
+
+<p>
+<strong>Question</strong>: Express the network function $\Phi$ in Figure 1.15 in terms of the primivitve functions 
+$f_1, \ldots , f_4$ and of the weights $\alpha_1, \ldots , \alpha_5$.
+</p>
+
+<p>
+<i>Solution.</i>
+</p>
+
+<p>
+The capital F is used to denote the output of each function to reduce ambiguity:
+</p>
+
+<p>
+\( F_1 = f_1 ( y ) \)
+<br>
+\( F_2 = f_2 ( x + \alpha_1 \cdot F_1 ) \)
+<br>
+\( F_3 = f_3 ( z + \alpha_2 \cdot F_1 + \alpha_3 \cdot F_2 ) \)
+<br>
+\( F_4 = f_4 ( \alpha_4 \cdot F_2 + \alpha_5 \cdot F_3 ) \)
+</p>
+
+<p>
+\begin{equation}
+\Phi = F_4 
+\end{equation}
+</p>
+
+<p>
+\begin{equation}
+f_4 ( \alpha_4 F_2 + \alpha_5 F_3 ) 
+\end{equation}
+</p>
+
+<p>
+\begin{equation}
+f_4 ( \alpha_4 F_2 + \alpha_5 f_3 ( z + \alpha_2 F_1 + \alpha_3 F_2 ) ) 
+\end{equation}
+</p>
+
+<p>
+\begin{equation}
+f_4 ( \alpha_4 f_2 ( x + \alpha_1 F_1 ) + \alpha_5 f_3 ( z + \alpha_2 F_1 + \alpha_3 f_2 ( x + \alpha_1 F_1 ) ) ) 
+\end{equation}
+</p>
+
+<p>
+\begin{equation}
+f_4 ( \alpha_4 f_2 ( x + \alpha_1 f_1 ( y ) ) + \alpha_5 f_3 ( z + \alpha_2 f_1 ( y ) + \alpha_3 f_2 ( x + \alpha_1 f_1 ( y ) ) ) )
+\end{equation}
+</p>
+
+</body>
+</html>
