@@ -24,3 +24,7 @@ Rojas, R. (1996) *Neural networks: a systematic introduction.* (Berlin: Springer
 |8|Hopfield nets|Rojas, Chapters 12 and 13<br/>Chapter 42 of MacKay, D.J.C. Information theory, inference, and learning algorithms. (Cambridge: Cambridge University Press, 2005) [ISBN-13: 9780521642989; ISBN-10: 0521642981]. Available online at www. inference.phy.cam.ac.uk/mackay/itila/book.html (Last accessed June 2009.);<br/>Hopfield, J.J. (2009a) Hopfield network. Available online at www.scholarpedia.org/article/Hopfield_network (Last accessed June 2009.)|
 |9|Problems in ANN learning|Rojas, Chapter 8.|
 |10|Applications of neural networks|Sejnowski, T.J. and C.R. Rosenberg (1987) Parallel networks that learn to pronounce English text. Complex Systems 1, pp.145–168. Available online at www.cnl.salk.edu/ParallelNetsPronounce/index.php (Last accessed June 2009.)|
+
+### Exercises from Rojas
+
+[Chapter 1, exercise 1](/co3311/r-c01e01)
