@@ -14,3 +14,13 @@ title: "meals"
 |31 december 2019 11:20pm|dinner|2 glasses of pepsi|
 |1 january 2020 2:00pm|lunch|chicken curry with white rice|
 |1 january 2020 3:30pm|lunch|2 glasses of sprite|
+|1 january 2020 10:30pm|dinner|chicken curry with white rice|
+|1 january 2020 10:30pm|dinner|2 glasses of sprite|
+|2 january 2020 12:30pm|lunch|dhal with white rice|
+|2 january 2020 10:30pm|dinner|tomato rice with 2 boiled eggs|
+|3 january 2020 12:30pm|lunch|dhal with white rice|
+|3 january 2020 10:30pm|dinner|egg fried rice|
+|4 january 2020 12:30pm|lunch|dhal with white rice|
+|4 january 2020 12:30pm|lunch|1 glass of pepsi|
+|4 january 2020 10:30pm|dinner|egg fried rice|
+|5 january 2020 01:30am|midnight|2 glasses of pepsi|
