@@ -66,6 +66,14 @@ CAL NEWPORT
 > 
 > **Part Three Cheat Sheet**
 
+*Conclusion*
+
+*Acknowledgments*
+
+*Getting in is just the beginning*
+
+*Copyright Page*
+
 ## Introduction
 
 > "My friends always wondered why I was never in the
