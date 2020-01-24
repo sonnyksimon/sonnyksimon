@@ -1,6 +1,16 @@
 ---
 layout: blank
 ---
+<style type="text/css">
+body { 
+  font-family: "Georgia", sans-serif; 
+  font-size: 12px;
+  max-width: 30em;
+  padding: 1em;
+  margin: auto;
+}
+</style>
+
 # How to Become a Straight-A Student
 
 *The Unconventional Strategies Real College Students 
