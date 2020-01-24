@@ -18,6 +18,8 @@ Use to Score High While Studying Less*
 
 CAL NEWPORT
 
+***
+
 ## Contents
 
 *Cover Page*
@@ -83,6 +85,8 @@ CAL NEWPORT
 *Getting in is just the beginning*
 
 *Copyright Page*
+
+***
 
 ## Introduction
 
