@@ -13,25 +13,25 @@ I'm Sonny Kothapally. I write stuff, in code for the most part and in prose othe
 
 ### Computer science and physics
 
-Introduction to programming, discrete mathematics, information systems, computing
+[Introduction to programming](/csp/sicp), [discrete mathematics](/csp/discrete), [information systems](/csp/is), [computing](/csp/comp)
 <br/>
-Database systems, algorithms, networking
+[Database systems](/csp/db), [algorithms](/csp/algo), [networking](/csp/net)
 <br/>
-Artificial intelligence, neural networks
+[Artificial intelligence](/csp/ai), [neural networks](/csp/nn)
 <br/>
-Data compression, computer security
+[Data compression](/csp/datcomprs), [computer security](/csp/compsec)
 <br/>
-Natural language processing, graphics and animation, etc.
+[Natural language processing](/csp/nlp), [graphics and animation](/csp/graphanim), etc.
 
-Single variable calculus, multi-variable calculus, logic
+[Single variable calculus](/csp/calc1), [multi-variable calculus](/csp/calc2), [logic](/csp/logic)
 <br/>
-Differential equations, linear algebra, probability
+[Differential equations](/csp/diffeq), [linear algebra](/csp/linalg), [probability](/csp/prob)
 <br/>
-Classical mechanics, electromagnetism, vibrations and waves
+[Classical mechanics](/csp/mech), [electromagnetism](/csp/em), [vibrations and waves](/csp/vibwav)
 <br/>
-Quantum mechanics, statistical physics
+[Quantum mechanics](/csp/qmech), [statistical physics](/csp/statphys)
 <br/>
-Relativity, experimental work, etc.
+[Relativity](/csp/rel), [experimental work](/csp/exp), etc.
 
 ### Related resources
 
