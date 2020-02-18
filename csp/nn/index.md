@@ -27,4 +27,4 @@ Rojas, R. (1996) *Neural networks: a systematic introduction.* (Berlin: Springer
 
 ### Exercises from Rojas
 
-[Chapter 1, exercise 1](/co3311/r-c01e01)
+[Chapter 1, exercise 1](/csp/nn/r-c01e01)
