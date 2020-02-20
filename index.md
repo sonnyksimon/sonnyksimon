@@ -71,4 +71,4 @@ I'm also at these other places on the web:
 
 *Original articles on this site are CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
 
-*last updated December 2019*
+*last updated February 2020*
