@@ -16,11 +16,11 @@ layout: blank
 
 ## Schooling
 
-(2020) B.S. *Computing and Information Systems*. **University of London**.
+B.S. *Computing and Information Systems*. **University of London**.
 
-(2016) A.S. *Physics, Chemistry, Pure Mathematics, Computer Science, Digital Media*. **Queen’s College, Guyana**.
+A.S. *Physics, Chemistry, Pure Mathematics, Computer Science, Digital Media*. **Queen’s College, Guyana**.
 
-(2014) Cert. *Sciences*. **Central High, Guyana**.
+Cert. *Sciences*. **Central High, Guyana**.
 
 ## Favorite Quotes
 
