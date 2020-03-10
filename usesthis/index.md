@@ -5,7 +5,7 @@ layout: blank
 
 I bought a [Lenovo IdeaPad 330](http://en.wikipedia.org/wiki/IdeaPad#IdeaPad_300_Series), the cheapest Lenovo I could find which still had decent build quality. Lenovos seem the best ones to get if you're not going to go for a MacBook. Data is scattered over multiple SD cards and hard drives, with huge overlaps. I like to keep multiple copies just in case something starts failing.
 
-My laptop runs GNU/Linux, and Windows (surf dual booting).
+My laptop runs GNU/Linux.
 
 My main mobile device is an [Xperia X Compact](http://en.wikipedia.org/wiki/Sony_Xperia_X_Compact). I use it to keep in touch with friends and family, and listen to [music](http://nirvana.com).
 
