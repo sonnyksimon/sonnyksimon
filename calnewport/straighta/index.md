@@ -29,7 +29,7 @@ CAL NEWPORT
 
 [*Introduction*](./introduction)
 
-**Part 1. Study Basics**
+[**Part 1. Study Basics**](./part1)
 
 > **Step 1** Manage Your Time in Five Minutes a Day
 > 
@@ -39,7 +39,7 @@ CAL NEWPORT
 > 
 > **Part One Cheat Sheet**
 
-[**Part 2. Quizzes and Exams**](./part1)
+[**Part 2. Quizzes and Exams**](./part2)
 
 > **Step 1** Take Smart Notes
 > 
@@ -57,7 +57,7 @@ CAL NEWPORT
 > 
 > **Part Two Cheat Sheet**
 
-**Part 3. Essays and Papers**
+[**Part 3. Essays and Papers**](./part3)
 
 > **Step 1** Target a Titillating Topic
 > 
