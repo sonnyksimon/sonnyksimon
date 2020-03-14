@@ -39,7 +39,7 @@ CAL NEWPORT
 > 
 > **Part One Cheat Sheet**
 
-**Part 2. Quizzes and Exams**
+[**Part 2. Quizzes and Exams**](./part1)
 
 > **Step 1** Take Smart Notes
 > 
