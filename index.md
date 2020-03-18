@@ -7,7 +7,7 @@ title: "Sonny S. Kothapally"
 
 **Nearby:** [what i'm reading](/reading), [hacks](/hacks), [calendar](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
 
-**Also close by:** [about me](/about), [what i use](/usesthis), [notes](/csp)
+**Also close by:** [about me](/about), [what i use](/usesthis)
 
 I'm Sonny Kothapally. I write stuff, in code for the most part and in prose otherwise.
 
