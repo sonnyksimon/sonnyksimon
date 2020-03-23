@@ -23,10 +23,6 @@ CAL NEWPORT
 
 ## Contents
 
-*Cover Page*
-
-*Title Page*
-
 [*Introduction*](./introduction)
 
 [**Part 1. Study Basics**](./part1)
@@ -79,10 +75,4 @@ CAL NEWPORT
 > 
 > **Part Three Cheat Sheet**
 
-*Conclusion*
-
-*Acknowledgments*
-
-*Getting in is just the beginning*
-
-*Copyright Page*
+[*Conclusion*](./conclusion)
