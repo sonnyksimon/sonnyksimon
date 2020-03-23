@@ -2804,7 +2804,8 @@ single most efficient way to study.
 
 * Spread out memorization over several days.
 Your mind can do only so much at a time.
-Step #5. Invest in “Academic Disaster
+
+#### Step #5. Invest in “Academic Disaster
 Insurance”
 
 * Eliminate the question marks for topics
