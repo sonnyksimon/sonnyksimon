@@ -566,6 +566,10 @@ professor was heading. Also note that the evidence
 features a lot of aggressive formatting: It’s split up
 into lists, with words often bolded and capitalized to
 emphasize their importance. There is no consistent
+scheme being applied here. The formatting is just
+what might come naturally to the student during the
+heat of the moment, to help him understand and
+underscore the concepts being presented.
 
 > **Lecture Excerpt:**
 > 
