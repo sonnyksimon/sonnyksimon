@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: "Introduction (How to Become a Straight-A Student)"
+title: "Quizzes and Exams (How to Become a Straight-A Student)"
 ---
 <style type="text/css">
 body { 
@@ -21,7 +21,7 @@ CAL NEWPORT
 
 ***
 
-## Part 2. Quizes and Exams
+## Part 2. Quizzes and Exams
 
 > “Students who develop
 > superior study skills
@@ -2207,7 +2207,7 @@ ill conceived. Double checking your work up to the
 last minute can make the difference between an
 above-average student and an academic star.
 
-> **The Plan in Action**
+> ### The Plan in Action
 
 Now let’s look at how the steps for Part Two play out
 in the real world. This section presents two realistic
