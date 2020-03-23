@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: "Introduction (How to Become a Straight-A Student)"
+title: "Study Basics (How to Become a Straight-A Student)"
 ---
 <style type="text/css">
 body { 
