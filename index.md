@@ -1,52 +1,40 @@
 ---
 layout: blank
-title: "Sonny S. Kothapally"
+title: "ssk"
 ---
 
 # Sonny S. Kothapally
 
-**Nearby:** [what i'm reading](/reading), [hacks](/hacks), [calendar](http://calendar.google.com/calendar/embed?src=sonnyksimon@gmail.com)
-
-**Also close by:** [about me](/about), [what i use](/usesthis)
-
 I'm Sonny Kothapally. I write stuff, in code for the most part and in prose otherwise.
 
-### Related resources
-
-[Feynman Lectures](http://www.feynmanlectures.caltech.edu/), [Travel hacks](http://matt.might.net/articles/travel-hacks/)
-<br/>
-[Military Standard, Standard general requirements for electronic equipment](http://everyspec.com/MIL-STD/MIL-STD-0300-0499/MIL-STD-454N_9160/)
-<br/>
-[Teach yourself programming in 10 years.](http://norvig.com/21-days.html)
-<br/>
-[HTML Hell](http://catb.org/~esr/html-hell.html), [Things every hacker once knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
-<br/>
-[Undergraduation](http://www.paulgraham.com/college.html), [What every cs major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+[about me](/about) &middot; [projects](/hacks)
 
 ### Contact
 
 ```
-Sonny Kothapally
-58 Brickdam; Stabroek; Georgetown, GY 
+sonny kothapally
+58 Brickdam; Stabroek;
+Georgetown, GY
 ```
 
 If you want to work with me, you can contact me in various forms:
 
-* [me@sonnyksimon.com](mailto:me@sonnyksimon.com) for mails
-* [@sonnyksimon](http://twitter.com/sonnyksimon) on twitter
-* [sonnyksimon](http://github.com/sonnyksimon) on github
-* [sonnyksimon](skype:sonnyksimon?chat) on Skype
+- [me@sonnyksimon.com](mailto:me@sonnyksimon.com) for mails
+- [@sonnyksimon](http://twitter.com/sonnyksimon) on twitter
+- [sonnyksimon](http://github.com/sonnyksimon) on github
+- [sonnyksimon](skype:sonnyksimon?chat) on Skype
 
-I prefer email. If something is urgent, you should really send it again to me. I don't use the phone. If you have some reason to call me, please warn me first by email. 
+I don't use the phone. I prefer email. If something is urgent, you should really
+send it again to me. And if you have some reason to call me, please warn me first by email.
 
 I'm also at these other places on the web:
 
-* [flickr](http://flickr.com/sonnyksimon)
-* [instagram](http://instagram.com/sonnyksimon) 
-* [reddit](http://reddit.com/u/sonnyksimon) 
-* [youtube](http://youtube.com/sonnyksimon)
-* [facebook](http://facebook.com/sonny.kothapally)
+- [flickr](http://flickr.com/sonnyksimon)
+- [instagram](http://instagram.com/sonnyksimon)
+- [reddit](http://reddit.com/u/sonnyksimon)
+- [youtube](http://youtube.com/sonnyksimon)
+- [facebook](http://facebook.com/sonny.kothapally)
 
-*Original articles on this site are CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated.*
+_Original articles on this site are CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) licensed unless otherwise stated._
 
-*last updated March 2020*
+_last updated March 2020_

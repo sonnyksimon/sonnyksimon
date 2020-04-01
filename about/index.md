@@ -1,47 +1,103 @@
 ---
 layout: blank
+title: "ssk: about"
 ---
 
-## Background
+```
+about me
+~~~~~~~~
 
-**Web:** Apache, Python
+born  15 November 1997
 
-**Databases:** Oracle, PostgreSQL
+I'm interested in computer science, math and physics,
+although my formal education is in computing and information systems.
+                                    - - - - - - - - - - - - - - - -
 
-**Languages:** C, Python, Javascript, bash and English
+Before that I took chemistry, computer science, digital media,
+physics and pure-mathematics; in order to satisfy an associate
+degree in the natural sciences. This was in June, 2016.
 
-**Operating Systems:** Ubuntu, Debian GNU/Linux
 
-**Study:** computing, thought (ala [Chomsky](http://www.haymarketbooks.org/authors/28-noam-chomsky)), physics (ala [Feynman](http://feynmanlectures.caltech.edu))
+Since then I've worked on building web applications. My background
+includes (but is not limited to):
 
-## Schooling
+    the c, python, and javascript languages,
+    the oracle and postgres database systems,
+    and the unix environment.
 
-B.S. *Computing and Information Systems*. **University of London**.
 
-A.S. *Physics, Chemistry, Pure Mathematics, Computer Science, Digital Media*. **Queen’s College, Guyana**.
+I lived in bangalore [india] upto the august of 2009, when I migrated
+to georgetown [guyana] where I've resided since. I haven't visited
+anywhere else, other than the airports of few places in between.
 
-Cert. *Sciences*. **Central High, Guyana**.
 
-## Favorite Quotes
 
-"You don't have to be responsible for the world that you're in" - John von Neumann
+education
+---------
 
-"I’d rather be hated for who I am, than loved for who I’m not." - K. Cobain
+discrete mathematics,
+information systems,
+object-oriented programming using java,
+computer organization and architecture, internet programming,
 
-"The optimist thinks this is the best of all possible worlds. The pessimist fears it is true." - J. R. Oppenheimer
+database systems,
+graphical interfaces and event-driven programming,
+data communication and networking,
+software engineering and project management,
+algorithms and data structures,
 
-"There are two possible outcomes: if the result confirms the hypothesis, then you’ve made a measurement. If the result is contrary to the hypothesis, then you’ve made a discovery." E. Fermi
+artificial intelligence,
+neural networks,
+data compression and information theory,
+general computer security,
+natural language processing with python,
+computer graphics and animation.
 
-"If a man has any genuine talent he should be ready to make almost any sacrifice in order to cultivate it to the full." G. H. Hardy
 
-"We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems. But there are tens of thousands of years in the future. Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on." - R. P. Feynman
+independent study
+-----------------
 
-"**If we are honest — and scientists have to be — we must admit that religion is a jumble of false assertions, with no basis in reality. The very idea of God is a product of the human imagination.** It is quite understandable why primitive people, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling. But nowadays, when we understand so many natural processes, we have no need for such solutions. I can’t for the life of me see how the postulate of an Almighty God helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit. Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards — in heaven if not on earth — all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of all mortal sins." - P. A. M. Dirac
+math:
+- one-variable and multi-variate calculus
+- differential equations
+- linear algebra
+- logic
+- mathematical methods
+- probability
 
-## Places I've Been To
+physics:
+- classical mechanics
+- electrodynamics
+- waves and vibrations
+- quantum mechanics
+- special relativity
+- statistical physics
 
-**Guyana**: Georgetown; **India**: Bangalore
 
-## Games I've Played
+```
 
-SuperTux, TuxRacer, PepsiMan, Road Rash, DxBall, Pinball, 4dPrinceOfPersia, SkyRoads, Dangerous Dave, Icy Tower, Age of Empires, Praetorians, Pokemon Yellow, Pokemon Yellow, Pokemon Sapphire, FIFA 12, FIFA 15, FIFA 17, NARUTO: Ultimate Ninja STORM, Naruto Shippuden: Ultimate Ninja Storm 2, Naruto Shippuden: Ultimate Ninja Storm 3, and Naruto Ultimate Ninja Storm 4
+<!-- ## Games I've Played -->
+
+<!--
+- 4dPrinceOfPersia
+- Age of Empires
+- and Naruto Ultimate Ninja Storm 4
+- Dangerous Dave
+- DxBall
+- FIFA 12
+- FIFA 15
+- FIFA 17
+- Icy Tower
+- Naruto Shippuden: Ultimate Ninja Storm 2
+- Naruto Shippuden: Ultimate Ninja Storm 3
+- NARUTO: Ultimate Ninja STORM
+- PepsiMan
+- Pinball
+- Pokemon Sapphire
+- Pokemon Yellow
+- Pokemon Yellow
+- Praetorians
+- Road Rash
+- SkyRoads
+- SuperTux
+- TuxRacer -->
