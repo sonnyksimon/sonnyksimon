@@ -7,8 +7,6 @@ title: "ssk: about"
 about me
 ~~~~~~~~
 
-born  15 November 1997
-
 I'm interested in computer science, math and physics,
 although my formal education is in computing and information systems.
                                     - - - - - - - - - - - - - - - -
@@ -30,9 +28,11 @@ I lived in bangalore [india] upto the august of 2009, when I migrated
 to georgetown [guyana] where I've resided since. I haven't visited
 anywhere else, other than the airports of few places in between.
 
+```
 
 
-education
+
+<!-- education
 ---------
 
 discrete mathematics,
@@ -71,10 +71,7 @@ physics:
 - waves and vibrations
 - quantum mechanics
 - special relativity
-- statistical physics
-
-
-```
+- statistical physics -->
 
 <!-- ## Games I've Played -->
 
