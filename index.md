@@ -7,7 +7,11 @@ title: "ssk"
 
 I'm Sonny Kothapally. I write stuff, in code for the most part and in prose otherwise.
 
-[about me](/about) &middot; [projects](/hacks)
+I'm interested in computer science, math and physics, although my formal education is in computing.
+
+Before that I took chemistry, computer science, digital media, physics and pure mathematics at school.
+
+[projects](/hacks)
 
 ### Contact
 
